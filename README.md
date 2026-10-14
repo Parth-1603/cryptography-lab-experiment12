@@ -5,7 +5,7 @@ This repository contains the implementation and output of cryptography laborator
 ## Experiments Included
 
 - Experiment 12A — AES Security Analysis: ECB vs CBC
-- Experiment 2B — Design and Analysis of a Secure Encryption Scheme
+- Experiment 12B — Design and Analysis of a Secure Encryption Scheme
 
 ---
 
